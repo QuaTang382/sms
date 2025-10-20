@@ -1,0 +1,4 @@
+Updated 20/10/2025:
+- Tốc độ spam gây phiền 3s/1API.
+- Nhiều call hơn
+- 150+ API
